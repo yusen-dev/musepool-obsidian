@@ -1,0 +1,10 @@
+{
+  "id": "musepool",
+  "name": "MusePool",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "A local-first visual library for discovering, organizing, and reusing creative references with AI.",
+  "author": "Joyboy",
+  "authorUrl": "https://github.com/yusen-dev",
+  "isDesktopOnly": true
+}
